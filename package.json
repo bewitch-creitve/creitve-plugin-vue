@@ -13,6 +13,6 @@
       "url": "git+https://github.com/bewitch-creitve/creitve-plugin-vue.git"
     },
     "publishConfig": {
-      "registry": "https://npm.pkg.github.com/@dalenguyen"
+      "registry": "https://npm.pkg.github.com/@bewitch-creitve"
     }
   }

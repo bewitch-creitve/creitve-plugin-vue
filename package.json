@@ -1,0 +1,19 @@
+{
+    "name": "creitve-plugin-vue",
+    "version": "1.0.0",
+    "description": "Plugin for loading a project into the Creitve editor",
+    "main": "dist/index.js",
+    "scripts": {
+      "build": "tsc",
+      "deploy": "npm publish"
+    },
+    "author": "Erik Kadar",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bewitch-creitve/creitve-plugin-vue.git"
+    },
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/@dalenguyen"
+    }
+  }

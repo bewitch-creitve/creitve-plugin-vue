@@ -4,7 +4,6 @@
     "description": "Plugin for loading a project into the Creitve editor",
     "main": "dist/index.js",
     "scripts": {
-      "build": "tsc",
       "deploy": "npm publish"
     },
     "author": "Erik Kadar",
